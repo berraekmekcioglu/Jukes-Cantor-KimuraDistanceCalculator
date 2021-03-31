@@ -1,0 +1,5 @@
+C:\Users\Berra\Desktop\Programmin & Stuff\biyoenformatik\2016280015_Odev3\2016280015_Odev3\bin\Debug\2016280015_Odev3.exe
+C:\Users\Berra\Desktop\Programmin & Stuff\biyoenformatik\2016280015_Odev3\2016280015_Odev3\bin\Debug\2016280015_Odev3.pdb
+C:\Users\Berra\Desktop\Programmin & Stuff\biyoenformatik\2016280015_Odev3\2016280015_Odev3\obj\Debug\2016280015_Odev3.csprojAssemblyReference.cache
+C:\Users\Berra\Desktop\Programmin & Stuff\biyoenformatik\2016280015_Odev3\2016280015_Odev3\obj\Debug\2016280015_Odev3.exe
+C:\Users\Berra\Desktop\Programmin & Stuff\biyoenformatik\2016280015_Odev3\2016280015_Odev3\obj\Debug\2016280015_Odev3.pdb
